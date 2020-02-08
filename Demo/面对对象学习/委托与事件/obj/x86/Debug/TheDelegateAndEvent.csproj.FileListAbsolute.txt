@@ -1,0 +1,4 @@
+C:\Users\DawnForKing\Desktop\随便写写\面对对象学习\委托与事件\bin\Debug\ConsoleApplication.exe
+C:\Users\DawnForKing\Desktop\随便写写\面对对象学习\委托与事件\bin\Debug\ConsoleApplication.pdb
+C:\Users\DawnForKing\Desktop\随便写写\面对对象学习\委托与事件\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\DawnForKing\Desktop\随便写写\面对对象学习\委托与事件\obj\x86\Debug\ConsoleApplication.pdb

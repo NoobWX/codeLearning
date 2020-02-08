@@ -1,0 +1,5 @@
+class Soul {
+    public soul () {
+
+    }
+}
