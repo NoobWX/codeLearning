@@ -1,0 +1,9 @@
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\bin\Debug\CashManager.exe.config
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\bin\Debug\CashManager.exe
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\bin\Debug\CashManager.pdb
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.Form1.resources
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.Properties.Resources.resources
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.csproj.GenerateResource.cache
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.exe
+E:\LocalLibrary\PersonalLibrary\CashManager\CashManager\obj\Debug\CashManager.pdb
