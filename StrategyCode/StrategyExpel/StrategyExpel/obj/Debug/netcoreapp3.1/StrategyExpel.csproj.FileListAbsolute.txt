@@ -1,0 +1,11 @@
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.exe
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.deps.json
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.runtimeconfig.json
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.runtimeconfig.dev.json
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.dll
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\bin\Debug\netcoreapp3.1\StrategyExpel.pdb
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\obj\Debug\netcoreapp3.1\StrategyExpel.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\obj\Debug\netcoreapp3.1\StrategyExpel.AssemblyInfoInputs.cache
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\obj\Debug\netcoreapp3.1\StrategyExpel.AssemblyInfo.cs
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\obj\Debug\netcoreapp3.1\StrategyExpel.dll
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyExpel\StrategyExpel\obj\Debug\netcoreapp3.1\StrategyExpel.pdb
