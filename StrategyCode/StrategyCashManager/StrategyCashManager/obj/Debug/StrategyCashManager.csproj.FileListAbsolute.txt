@@ -1,0 +1,9 @@
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\bin\Debug\StrategyCashManager.exe.config
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\bin\Debug\StrategyCashManager.exe
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\bin\Debug\StrategyCashManager.pdb
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.Form1.resources
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.Properties.Resources.resources
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.csproj.GenerateResource.cache
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.exe
+E:\LocalLibrary\PersonalLibrary\StrategyCode\StrategyCashManager\StrategyCashManager\obj\Debug\StrategyCashManager.pdb

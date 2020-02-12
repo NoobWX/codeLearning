@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyCashManager", "StrategyCashManager\StrategyCashManager.csproj", "{0614A6CF-F77A-447F-9C8B-104251D4DFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0614A6CF-F77A-447F-9C8B-104251D4DFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0614A6CF-F77A-447F-9C8B-104251D4DFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0614A6CF-F77A-447F-9C8B-104251D4DFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0614A6CF-F77A-447F-9C8B-104251D4DFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479D7454-E464-4B89-83CB-601C2096D095}
+	EndGlobalSection
+EndGlobal
