@@ -1,0 +1,65 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/M1.Master" AutoEventWireup="true" CodeBehind="LoginPage.aspx.cs" Inherits="WebApplication2.FrontPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .auto-style4 {
+            height: 40px;
+        }
+
+        .auto-style5 {
+            width: 100%;
+            height: 197px;
+        }
+
+        .auto-style6 {
+            margin-top: 0px;
+        }
+
+        .Box0 {
+            display: -webkit-flex;
+            display: flex;
+            -webkit-align-items: center;
+            justify-items: center;
+        }
+    </style>
+</asp:Content>
+
+<asp:Content ID="Content2" runat="server" ContentPlaceHolderID="ContentPlaceHolder1">
+    <div style="width: 320px; height: 300px; background-color: gainsboro; border-radius: 20px;">
+        <div class="Box0">
+            <div style="margin: auto;">
+                <table class="auto-style5" style="padding-top: 20px">
+                    <tr>
+                        <td class="auto-style4" style="text-align: center;">
+                            <asp:Image ID="Image3" runat="server" Height="40px" Width="40px" ImageUrl="wwwroot\LoginUI\用户头像.png" />
+                            <br />
+                            登录</td>
+                    </tr>
+                    <tr style="margin-top: 10px">
+                        <td class="auto-style4" style="text-align: center;">
+                            <asp:Image ID="Image1" runat="server" Height="35px" Width="40px" ImageUrl="wwwroot\LoginUI\用户名.png" ImageAlign="Top" />
+                            &nbsp;
+                    <asp:TextBox ID="TextBox1" runat="server" CssClass="auto-style6" Height="30px" Wrap="False"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr style="margin-top: 10px">
+                        <td style="text-align: center">
+                            <asp:Image ID="Image2" runat="server" Height="35px" Width="40px" ImageUrl="wwwroot\LoginUI\密码.png" ImageAlign="Top" />
+                            &nbsp;
+                    <asp:TextBox ID="TextBox2" runat="server" CssClass="auto-style6" Height="30px" TextMode="Password"></asp:TextBox>
+                        </td>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="Box0" style="height: 100px">
+            <div style="margin:auto;">
+                <asp:ImageButton ID="ImgBtn_btn" ImageUrl="wwwroot\LoginBtn\Login0.png" runat="server" OnClick="ImgBtn_Click" OnMouseOver="this.src='wwwroot/LoginBtn/Login1.png'" OnMouseOut="this.src='wwwroot/LoginBtn/Login0.png'"/>
+            </div>
+        </div>
+    </div>
+
+</asp:Content>
+
+

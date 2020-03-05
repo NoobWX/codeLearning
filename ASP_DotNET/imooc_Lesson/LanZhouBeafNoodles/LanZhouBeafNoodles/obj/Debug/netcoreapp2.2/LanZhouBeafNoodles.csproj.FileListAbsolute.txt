@@ -1,0 +1,14 @@
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\LanZhouBeafNoodles.deps.json
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\LanZhouBeafNoodles.runtimeconfig.json
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\LanZhouBeafNoodles.runtimeconfig.dev.json
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\LanZhouBeafNoodles.dll
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\bin\Debug\netcoreapp2.2\LanZhouBeafNoodles.pdb
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.RazorAssemblyInfo.cache
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.RazorAssemblyInfo.cs
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.AssemblyInfoInputs.cache
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.AssemblyInfo.cs
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.RazorTargetAssemblyInfo.cache
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.dll
+E:\LocalLibrary\PersonalLibrary\ASP_DotNET\imooc_Lesson\LanZhouBeafNoodles\LanZhouBeafNoodles\obj\Debug\netcoreapp2.2\LanZhouBeafNoodles.pdb

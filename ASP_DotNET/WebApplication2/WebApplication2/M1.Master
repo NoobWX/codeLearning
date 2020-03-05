@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="M1.master.cs" Inherits="WebApplication2.M1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .HeadBkg {
+            padding-top: 0;
+            width: 100%;
+            height: 300px;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-align-content: center;
+            justify-content: center;
+        }
+
+        .auto-style3 {
+            width: 128px;
+            height: 128px;
+        }
+
+        .img_posi {
+            display: -webkit-flex;
+            display: flex;
+            -webkit-align-items: center;
+            justify-content: center;
+        }
+
+        .PosiUsrP {
+            display: -webkit-flex;
+            display: flex;
+            -webkit-align-content: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body style="background-color: black; justify-content: center">
+    <form id="form1" runat="server">
+        <div class="HeadBkg">
+            <div class="img_posi">
+                <img alt="" class="auto-style3" src="wwwroot/test.jpg" style="border-radius: 20px" />
+                <h1 style="color: white; text-align: center; padding-left: 50px;">猿平台</h1>
+            </div>
+        </div>
+        <div class="PosiUsrP">
+            <div class="UserPlace1">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div style="width: 100%; height: 50px">
+            <div style="bottom: 0; position: absolute;">
+                <div style="text-align:center;">
+                    <h4 style="color: aliceblue;">所有权:SmartShark</h4>
+                </div>
+            </div>
+        </div>
+    </form>
+
+</body>
+</html>

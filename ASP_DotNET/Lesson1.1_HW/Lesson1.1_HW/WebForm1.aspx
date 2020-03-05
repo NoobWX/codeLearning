@@ -42,9 +42,6 @@
             width: 695px;
             height: 29px;
         }
-        .auto-style10 {
-            height: 38px;
-        }
         .auto-style11 {
             width: 685px;
             height: 26px;
@@ -52,6 +49,11 @@
         .auto-style12 {
             width: 695px;
             height: 26px;
+        }
+        .auto-style13 {
+            width: 685px;
+            height: 26px;
+            position: center;
         }
     </style>
     </head>
@@ -64,10 +66,10 @@
             <td class="auto-style6" rowspan="2">头像</td>
             <td class="auto-style4">
                 <asp:DropDownList ID="DropDownList1" runat="server" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged" AutoPostBack="True">
-                    <asp:ListItem Value="0">头像0</asp:ListItem>
-                    <asp:ListItem Value="1">头像1</asp:ListItem>
-                    <asp:ListItem Value="2">头像2</asp:ListItem>
-                    <asp:ListItem Value="3">头像3</asp:ListItem>
+                    <asp:ListItem Value="奋斗青年">头像0</asp:ListItem>
+                    <asp:ListItem Value="疲惫马里奥">头像1</asp:ListItem>
+                    <asp:ListItem Value="风骚小新">头像2</asp:ListItem>
+                    <asp:ListItem Value="修仙大胜">头像3</asp:ListItem>
                 </asp:DropDownList>
             </td>
         </tr>
@@ -115,6 +117,8 @@
             <td class="auto-style2">身高</td>
             <td class="auto-style4">
                 <asp:TextBox ID="BodyL_tbx" runat="server"></asp:TextBox>
+                <asp:Label ID="Label1" runat="server" Text="（CM）"></asp:Label>
+                <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="BodyL_tbx" ErrorMessage="身高异常" ForeColor="Red" MaximumValue="250" MinimumValue="120"></asp:RangeValidator>
             </td>
         </tr>
         <tr>
@@ -143,22 +147,23 @@
         <tr>
             <td class="auto-style11">爱好</td>
             <td class="auto-style12">
-                <asp:CheckBox ID="CheckBox3" runat="server" Text="音乐" />
-                <asp:CheckBox ID="CheckBox4" runat="server" Text="看书" />
-                <asp:CheckBox ID="CheckBox5" runat="server" Text="电影" />
-                <asp:CheckBox ID="CheckBox6" runat="server" Text="逛街" />
-                <asp:CheckBox ID="CheckBox7" runat="server" Text="编码" />
+                <asp:CheckBox ID="Music_cbx" runat="server" Text="音乐" />
+                <asp:CheckBox ID="Read_cbx" runat="server" Text="看书" />
+                <asp:CheckBox ID="Movie_cbx" runat="server" Text="电影" />
+                <asp:CheckBox ID="Shopp_cbx" runat="server" Text="逛街" />
+                <asp:CheckBox ID="Code_cbx" runat="server" Text="编码" />
             </td>
         </tr>
         <tr>
-            <td class="auto-style10" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <td class="auto-style13">
                 <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="注册" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </td>
+            <td class="auto-style12" style="position:center">
                 <asp:Button ID="Button2" runat="server" Text="取消" />
-&nbsp;&nbsp; </td>
+            </td>
         </tr>
         </table>
-        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:TextBox ID="TextBox1" runat="server" Height="230px" ReadOnly="True" Rows="9" TextMode="MultiLine" Width="1343px"></asp:TextBox>
     </form>
 </body>
 </html>
