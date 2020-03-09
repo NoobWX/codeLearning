@@ -25,13 +25,9 @@ namespace LanZhouBeafNoodles
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.Map("/test", build =>
-             {
-                 build.Run(async context =>
-                 {
-                     await context.Response.WriteAsync("Hello from test");
-                 });
-             });
+            app.UseMvc(route =>{
+                route.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
+            });
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
