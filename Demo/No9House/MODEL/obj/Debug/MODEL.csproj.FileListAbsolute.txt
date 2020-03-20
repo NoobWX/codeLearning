@@ -1,0 +1,5 @@
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\MODEL\bin\Debug\MODEL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\MODEL\bin\Debug\MODEL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\MODEL\obj\Debug\MODEL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\MODEL\obj\Debug\MODEL.pdb

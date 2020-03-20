@@ -1,0 +1,8 @@
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Debug\BLL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Debug\BLL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Debug\BLL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Debug\BLL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Debug\DAL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Debug\DAL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Debug\BLL.csproj.CopyComplete

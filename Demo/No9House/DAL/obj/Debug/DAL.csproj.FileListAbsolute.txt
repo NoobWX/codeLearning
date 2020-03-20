@@ -1,0 +1,5 @@
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Debug\DAL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Debug\DAL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Debug\DAL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Debug\DAL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

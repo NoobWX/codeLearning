@@ -1,0 +1,7 @@
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Release\DBTest.mdf
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Release\DBTest_log.ldf
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Release\DAL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\bin\Release\DAL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Release\DAL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\DAL\obj\Release\DAL.pdb

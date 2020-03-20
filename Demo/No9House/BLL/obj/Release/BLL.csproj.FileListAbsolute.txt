@@ -1,0 +1,5 @@
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Release\BLL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\bin\Release\BLL.pdb
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Release\BLL.dll
+E:\LocalLibrary\PersonalLibrary\Demo\WebApplication2\BLL\obj\Release\BLL.pdb
